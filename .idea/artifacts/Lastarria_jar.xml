@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lastarria:jar">
+    <output-path>$USER_HOME$/Serveur 1.18/plugins</output-path>
+    <root id="archive" name="Lastarria.jar">
+      <element id="module-output" name="Lastarria" />
+    </root>
+  </artifact>
+</component>

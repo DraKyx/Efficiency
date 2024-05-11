@@ -1,0 +1,99 @@
+name: Efficiency
+version: {version}
+main: fr.drakyx.Main
+api-version: 1.18
+authors: [ DraKyx ]
+commands:
+  rtp:
+    permission: lastarria.rtp
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lrtp
+
+  furnace:
+    permission: lastarria.furnace
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lfurnace
+
+  invsee:
+    permission: lastarria.invsee
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: linvsee
+    
+  armor:
+    permission: lastarria.invsee
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: larmor
+
+  freeze:
+    permission: lastarria.freeze
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lfreeze
+
+  vanish:
+    permission: lastarria.vanish
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lvanish
+
+  fly:
+    permission: lastarria.fly
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lfly
+
+  warp:
+    permission: lastarria.warp
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lwarp
+
+  setwarp:
+    permission: lastarria.setwarp
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lsetwarp
+
+  delwarp:
+    permission: lastarria.delwarp
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: ldelwarp
+
+  tpa2:
+    permission: lastarria.tpa
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: ltpa
+
+  tpall:
+    permission: lastarria.tpall
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: ltpall
+
+  tpaccept2:
+    permission: lastarria.tpaccept
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: ltpaccept
+
+  tpdeny2:
+    permission: lastarria.tpdeny
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: ltpdeny
+
+  event:
+
+  reop:
+    permission: lastarria.reop
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lreop
+
+  claim:
+    permission: lastarria.claim
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lclaim
+
+  unclaim:
+    permission: lastarria.unclaim
+    permission-message: "§3Tu n'as pas la permission"
+    aliases: lunclaim
+    
+  mami:
+    permission: lastarria.mami
+    permission-message: "§3Tu n'as pas la permission"
+    
+  report:
+  
